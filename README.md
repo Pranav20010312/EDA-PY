@@ -4,8 +4,6 @@
 Atliq Grands operates hotels in three major cities in India and has been a prominent player in the hospitality industry for two decades. However, with evolving market dynamics and fierce competition, the company has seen a drop in revenue and market share. This project focuses on analyzing booking patterns, customer preferences, and revenue trends to recommend data-driven solutions to improve their business performance.
 
 ## EXPLORATARY DATA ANALYSIS (EDA)
-Key insights extracted from the analysis:
-
 Platform Analysis: Distribution of bookings across various platforms (e.g., direct, OTA).
 
 Outlier Detection: Handled outliers in revenue and guest counts using statistical methods (3σ rule).
@@ -40,6 +38,9 @@ Cities with sub-55% occupancy require attention. Explore marketing strategies, l
 
 ## Tools & Technologies Used
 Python 
+
 Pandas
+
 Matplotlib
+
 Seaborn
