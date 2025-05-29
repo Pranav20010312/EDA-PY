@@ -1,4 +1,4 @@
-# Exploratary Data Analysis in Hospitality Analysis
+# Hotel Analysis
 
 ## PROBLEM STATEMENT
 Atliq Grands operates hotels in three major cities in India and has been a prominent player in the hospitality industry for two decades. However, with evolving market dynamics and fierce competition, the company has seen a drop in revenue and market share. This project focuses on analyzing booking patterns, customer preferences, and revenue trends to recommend data-driven solutions to improve their business performance.
